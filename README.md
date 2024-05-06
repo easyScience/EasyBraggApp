@@ -1,2 +1,2 @@
-# EasyBraggApp
-Imaging data analysis application
+# EasyImagingApp
+Bragg-edge imaging data analysis application
